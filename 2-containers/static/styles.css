@@ -1,0 +1,16 @@
+.container {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+.docker {
+  display: flex;
+  width: 680px;
+  height: 630px;
+  background-image: url(./docker.png);
+  background-repeat: no-repeat;
+  background-position: bottom right, center center, top left;
+}
